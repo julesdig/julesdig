@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jules</h1>
 <h3 align="center">A passionate backend developer from France</h3>
 
+- 🔭 I’m currently working on **Earls de la galoche**
 
 - 🌱 I’m currently learning **React**
+
+- 👨‍💻 All of my projects are available at [https://digonnetjules.fr/](https://digonnetjules.fr/)
+
+- 📫 How to reach me **judigonnet@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
