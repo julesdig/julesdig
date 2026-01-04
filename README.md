@@ -3,13 +3,23 @@
 
 - 📫 How to reach me **judigonnet@gmail.com**
 
-<h3 align="left">Top Languages</h3>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julesdig)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/jules-digonnet-77265a233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jules-digonnet-77265a233" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/jules-digonnet-77265a233" target="_blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn Jules Digonnet"
+      height="30"
+      width="40" />
+  </a>
+
+  <a href="https://julesdigonnet.fr" target="_blank">
+    <img align="center"
+      src="https://julesdigonnet.fr/assets/img/logo-6I4a5nP.png"
+      alt="Portfolio Jules Digonnet"
+      height="30"
+      width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
